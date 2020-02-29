@@ -1,0 +1,10 @@
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\bin\Debug\Tp2_AgenceBancaire.exe.config
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\bin\Debug\Tp2_AgenceBancaire.exe
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\bin\Debug\Tp2_AgenceBancaire.pdb
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\obj\Debug\Tp2_AgenceBancaire.csprojAssemblyReference.cache
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\obj\Debug\Tp2_AgenceBancaire.Form1.resources
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\obj\Debug\Tp2_AgenceBancaire.Properties.Resources.resources
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\obj\Debug\Tp2_AgenceBancaire.csproj.GenerateResource.cache
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\obj\Debug\Tp2_AgenceBancaire.exe
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\obj\Debug\Tp2_AgenceBancaire.pdb
+C:\Users\Bilel\source\repos\Tp2_AgenceBancaire\Tp2_AgenceBancaire\obj\Debug\Tp2_AgenceBancaire.FCompte.resources
